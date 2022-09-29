@@ -10,4 +10,4 @@ learning xml
 - Stats & ML
 
 ## My Project
-Please see my Google Data Studio dashboard .[here].(https://www.google.co.th/)
+Please see my Google Data Studio dashboard [here](https://www.google.co.th/)
